@@ -1,0 +1,12 @@
+
+20191218104117, Waiting for response
+20191218104117, Sending frame:  <STX>1H|\^&|31|59d494994118cbb32ea2e65c02a5519c562bb3440069dac31f740bd2a4848c0d|123||||||||2.1.53|20191218103519<CR><ETX>85<CR><LF>
+20191218104117, Waiting for response
+20191218104117, Sending frame:  <STX>2P|1|124|||||||||||||Dog<CR><ETX>B8<CR><LF>
+20191218104117, Waiting for response
+20191218104117, Sending frame:  <STX>3O|1|||^^^69||20191218104117|||||N||||||||||||||O<CR><ETX>CB<CR><LF>
+20191218104117, Waiting for response
+20191218104117, Sending frame:  <STX>4L|1<CR><ETX>3D<CR><LF>
+20191218104117, Waiting for response
+20191218104117, Sending 'EOT'
+20191218104117, Idle

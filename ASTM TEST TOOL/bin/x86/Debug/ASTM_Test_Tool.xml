@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ASTM_Test_Tool
+</name>
+</assembly>
+<members>
+<member name="T:ASTM_Test_Tool.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str101">
+<summary>
+  Looks up a localized string similar to Received &apos;ENQ&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str102">
+<summary>
+  Looks up a localized string similar to Sending &apos;ACK&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str103">
+<summary>
+  Looks up a localized string similar to Waiting for frame.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str104">
+<summary>
+  Looks up a localized string similar to Received frame:  .
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str105">
+<summary>
+  Looks up a localized string similar to Parsing frame.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str106">
+<summary>
+  Looks up a localized string similar to Sending &apos;NAK&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str107">
+<summary>
+  Looks up a localized string similar to Received &apos;EOT&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str108">
+<summary>
+  Looks up a localized string similar to Idle.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str109">
+<summary>
+  Looks up a localized string similar to Calculated checksum = .
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str110">
+<summary>
+  Looks up a localized string similar to Reported checksum = .
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str111">
+<summary>
+  Looks up a localized string similar to Parsing record.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str112">
+<summary>
+  Looks up a localized string similar to Starting state machine.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str113">
+<summary>
+  Looks up a localized string similar to Stopping state machine.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str114">
+<summary>
+  Looks up a localized string similar to Building record.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str115">
+<summary>
+  Looks up a localized string similar to Building frame.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str116">
+<summary>
+  Looks up a localized string similar to Sending &apos;ENQ&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str117">
+<summary>
+  Looks up a localized string similar to Waiting for response.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str118">
+<summary>
+  Looks up a localized string similar to Received &apos;ACK&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str119">
+<summary>
+  Looks up a localized string similar to Sending frame:  .
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str120">
+<summary>
+  Looks up a localized string similar to Received &apos;NAK&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str121">
+<summary>
+  Looks up a localized string similar to Sending &apos;EOT&apos;.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str122">
+<summary>
+  Looks up a localized string similar to Piccolo busy.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str123">
+<summary>
+  Looks up a localized string similar to Sending frame again.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str124">
+<summary>
+  Looks up a localized string similar to No more retries allowed.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str125">
+<summary>
+  Looks up a localized string similar to Transmitting sequence:  .
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str201">
+<summary>
+  Looks up a localized string similar to Timeout waiting for Piccolo.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str202">
+<summary>
+  Looks up a localized string similar to Frame error.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str203">
+<summary>
+  Looks up a localized string similar to The database did not return any records.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str204">
+<summary>
+  Looks up a localized string similar to No more fields for record.
+</summary>
+</member>
+<member name="P:ASTM_Test_Tool.My.Resources.Resources.str205">
+<summary>
+  Looks up a localized string similar to Transmission field delimiter cannot be left blank!.
+</summary>
+</member>
+</members>
+</doc>

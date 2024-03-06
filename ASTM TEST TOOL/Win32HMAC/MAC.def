@@ -1,0 +1,4 @@
+LIBRARY Win32HMAC
+
+EXPORTS
+CalculateSha256Mac @9

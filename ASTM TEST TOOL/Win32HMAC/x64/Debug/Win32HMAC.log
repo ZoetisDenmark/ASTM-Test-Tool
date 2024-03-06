@@ -1,0 +1,7 @@
+﻿  sha2.cpp
+  hmac_sha2.cpp
+c:\supportsoftware\projects\astm test tool\win32hmac\hmac_sha2.cpp(246): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+hmac_sha2.obj : warning LNK4197: export 'CalculateSha256Mac' specified multiple times; using first specification
+     Creating library C:\SupportSoftware\Projects\ASTM TEST TOOL\x64\Debug\Win32HMAC.lib and object C:\SupportSoftware\Projects\ASTM TEST TOOL\x64\Debug\Win32HMAC.exp
+  Win32HMAC.vcxproj -> C:\SupportSoftware\Projects\ASTM TEST TOOL\x64\Debug\Win32HMAC.dll

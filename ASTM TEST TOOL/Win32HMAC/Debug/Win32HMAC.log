@@ -1,6 +1,6 @@
 ﻿  hmac_sha2.cpp
-C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM TEST TOOL\Win32HMAC\hmac_sha2.cpp(230,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\Win32HMAC\hmac_sha2.cpp(230,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   sha2.cpp
   Generating Code...
      Creating library .\Debug\Win32HMAC.lib and object .\Debug\Win32HMAC.exp
-  Win32HMAC.vcxproj -> C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM TEST TOOL\Win32HMAC\Debug\Win32HMAC.dll
+  Win32HMAC.vcxproj -> C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\Win32HMAC\Debug\Win32HMAC.dll

@@ -294,7 +294,12 @@ ErrTrap:
     '*********************************************************************
     Private Sub btnStart_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnStart.Click
         On Error GoTo ErrTrap
-
+        Dim message As String = "Message"
+        Dim MAC_HEX_STRING_LENGTH As UInteger = 64
+        Dim passwordByte(64) As Byte
+        Dim keyIndex As UInteger
+        Dim index1 As Integer
+        index1 = UnmanagedCalls.CalculateSha256Mac(System.Text.Encoding.Unicode.GetBytes(message), passwordByte, MAC_HEX_STRING_LENGTH, keyIndex)
         Dim ipAddress As String
         ipAddress = txtIP1.Text & "." & txtIP2.Text & "." & txtIP3.Text & "." & txtIP4.Text
         ' start the Analyzer

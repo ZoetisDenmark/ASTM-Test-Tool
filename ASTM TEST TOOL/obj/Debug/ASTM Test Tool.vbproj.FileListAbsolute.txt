@@ -134,9 +134,6 @@ C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\AS
 C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\System.Security.AccessControl.dll
 C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\System.Security.Principal.Windows.dll
 C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\stdole.dll
-C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\VBRUN.dll
-C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\MSComctlLib.dll
-C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\VBA.dll
 C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\MSDATASRC.dll
 C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\System.Security.AccessControl.xml
 C:\Users\dougld02\Documents\ASTM_v3.0.0_Changeset_12433\v3.0.0\ASTM-Test-Tool\ASTM TEST TOOL\obj\Debug\System.Security.Principal.Windows.xml
